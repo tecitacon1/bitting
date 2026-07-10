@@ -1,0 +1,17 @@
+{
+  "slug": "highest-temperature-in-seoul-on-july-11-2026",
+  "local_date": "2026-07-11",
+  "status": "idle",
+  "held_bucket_temp": null,
+  "held_bucket_label": null,
+  "held_token_id": null,
+  "held_shares": 0.0,
+  "running_max_seen": 26.0,
+  "last_upgrade_at": null,
+  "last_running_max_at": "2026-07-10T16:53:48.606532+00:00",
+  "peak_locked": false,
+  "entry_floor": 26,
+  "ceiling_temp": 34,
+  "trades": [],
+  "updated_at": "2026-07-10T16:53:48.606552+00:00"
+}

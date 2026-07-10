@@ -1,0 +1,28 @@
+{
+  "computed_at": "2026-07-10T10:45:20.547449+00:00",
+  "ground_truth": "wunderground_rksi",
+  "start_date": "2026-06-08",
+  "end_date": "2026-07-08",
+  "models": {
+    "open_meteo": {
+      "bias": 4.4067,
+      "mae": 4.4067,
+      "error_variance": 2.174,
+      "samples": 30
+    },
+    "ecmwf": {
+      "bias": 1.1333,
+      "mae": 1.24,
+      "error_variance": 1.2276,
+      "samples": 30
+    },
+    "gfs": {
+      "bias": 5.4433,
+      "mae": 5.4433,
+      "error_variance": 1.5978,
+      "samples": 30
+    }
+  },
+  "residual_std": 2.2451,
+  "calibration_days": 30
+}

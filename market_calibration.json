@@ -1,0 +1,258 @@
+{
+  "computed_at": "2026-07-10T10:45:45.681969+00:00",
+  "market": "polymarket_seoul_temperature",
+  "oracle_station": "RKSI",
+  "lookback_days": 60,
+  "sample_size": 31,
+  "market_delta": 0.0,
+  "pairs": [
+    {
+      "date": "2026-06-09",
+      "slug": "highest-temperature-in-seoul-on-june-9-2026",
+      "polymarket_resolution": 25,
+      "rksi_actual": 25.0,
+      "rksi_bucket": 25,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "highest-temperature-in-seoul-on-june-10-2026",
+      "polymarket_resolution": 23,
+      "rksi_actual": 23.0,
+      "rksi_bucket": 23,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-11",
+      "slug": "highest-temperature-in-seoul-on-june-11-2026",
+      "polymarket_resolution": 23,
+      "rksi_actual": 23.0,
+      "rksi_bucket": 23,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-12",
+      "slug": "highest-temperature-in-seoul-on-june-12-2026",
+      "polymarket_resolution": 24,
+      "rksi_actual": 24.0,
+      "rksi_bucket": 24,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-13",
+      "slug": "highest-temperature-in-seoul-on-june-13-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-14",
+      "slug": "highest-temperature-in-seoul-on-june-14-2026",
+      "polymarket_resolution": 26,
+      "rksi_actual": 26.0,
+      "rksi_bucket": 26,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-15",
+      "slug": "highest-temperature-in-seoul-on-june-15-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "highest-temperature-in-seoul-on-june-16-2026",
+      "polymarket_resolution": 29,
+      "rksi_actual": 29.0,
+      "rksi_bucket": 29,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "highest-temperature-in-seoul-on-june-17-2026",
+      "polymarket_resolution": 30,
+      "rksi_actual": 30.0,
+      "rksi_bucket": 30,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "highest-temperature-in-seoul-on-june-18-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "highest-temperature-in-seoul-on-june-19-2026",
+      "polymarket_resolution": 31,
+      "rksi_actual": 31.0,
+      "rksi_bucket": 31,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "highest-temperature-in-seoul-on-june-20-2026",
+      "polymarket_resolution": 24,
+      "rksi_actual": 24.0,
+      "rksi_bucket": 24,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "highest-temperature-in-seoul-on-june-21-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "highest-temperature-in-seoul-on-june-22-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "highest-temperature-in-seoul-on-june-23-2026",
+      "polymarket_resolution": 30,
+      "rksi_actual": 30.0,
+      "rksi_bucket": 30,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "highest-temperature-in-seoul-on-june-24-2026",
+      "polymarket_resolution": 29,
+      "rksi_actual": 29.0,
+      "rksi_bucket": 29,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "highest-temperature-in-seoul-on-june-25-2026",
+      "polymarket_resolution": 26,
+      "rksi_actual": 26.0,
+      "rksi_bucket": 26,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "highest-temperature-in-seoul-on-june-26-2026",
+      "polymarket_resolution": 25,
+      "rksi_actual": 25.0,
+      "rksi_bucket": 25,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "highest-temperature-in-seoul-on-june-27-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-28",
+      "slug": "highest-temperature-in-seoul-on-june-28-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "highest-temperature-in-seoul-on-june-29-2026",
+      "polymarket_resolution": 26,
+      "rksi_actual": 26.0,
+      "rksi_bucket": 26,
+      "delta": 0
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "highest-temperature-in-seoul-on-june-30-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "highest-temperature-in-seoul-on-july-1-2026",
+      "polymarket_resolution": 30,
+      "rksi_actual": 30.0,
+      "rksi_bucket": 30,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-02",
+      "slug": "highest-temperature-in-seoul-on-july-2-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "highest-temperature-in-seoul-on-july-3-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "highest-temperature-in-seoul-on-july-4-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "highest-temperature-in-seoul-on-july-5-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "highest-temperature-in-seoul-on-july-6-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "highest-temperature-in-seoul-on-july-7-2026",
+      "polymarket_resolution": 30,
+      "rksi_actual": 30.0,
+      "rksi_bucket": 30,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "highest-temperature-in-seoul-on-july-8-2026",
+      "polymarket_resolution": 28,
+      "rksi_actual": 28.0,
+      "rksi_bucket": 28,
+      "delta": 0
+    },
+    {
+      "date": "2026-07-09",
+      "slug": "highest-temperature-in-seoul-on-july-9-2026",
+      "polymarket_resolution": 27,
+      "rksi_actual": 27.0,
+      "rksi_bucket": 27,
+      "delta": 0
+    }
+  ]
+}
