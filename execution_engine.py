@@ -104,10 +104,15 @@ class PolymarketExecutor:
             self.client.set_api_creds(derived)
 
     def get_balance(self):
-        if not self.client:
+        clob = self.client
+        if not clob:
             return 0.0
         try:
-            payload = self.client.get_balance_allowance()
+            from py_clob_client_v2.clob_types import AssetType, BalanceAllowanceParams
+
+            payload = clob.get_balance_allowance(
+                BalanceAllowanceParams(asset_type=AssetType.COLLATERAL)
+            )
             return parse_float(payload.get("balance"), 0.0) / 1_000_000
         except Exception:
             LOGGER.exception("Failed to fetch CLOB balance")
