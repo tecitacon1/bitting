@@ -174,7 +174,8 @@ def run_cycle(executor: PolymarketExecutor, store: LadderStateStore):
     )
 
     LOGGER.info(
-        "Cycle | current=%s°C | running_max=%s°C | bucket=%s | held=%s | action=%s | reason=%s",
+        "Cycle | kst=%s | current=%s°C | running_max=%s°C | bucket=%s | held=%s | action=%s | reason=%s",
+        now.strftime("%H:%M"),
         snapshot.current_temp_c,
         snapshot.running_daily_max_c,
         snapshot.resolved_bucket_temp,
